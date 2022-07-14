@@ -3,4 +3,4 @@ Aula em que demonstro as formas de se conectar com o banco de dados Oracle 21c
 
 # Diagrama
 
-![img](diagrama.png)
+![img](diagramas.png)
